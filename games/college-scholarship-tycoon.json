@@ -1,17 +1,20 @@
 {
+    "type": "Game",
+    "@id": "https://www.vox.com/policy-and-politics/2017/11/1/16526202/college-scholarship-tycoon-game",
     "name": "College Scholarship Tycoon",
-    "author": [
-        {
-            "type": "Person",
-            "@id": "",
-            "name": ""
-        },
-        {
-            "type": "Organization",
-            "@id": "",
-            "name": ""
-        }
-    ],
-    "gameLocation": "https://",
-    "abstract": ""
+    "inLanguage": "en-US",
+    "gameLocation": "https://www.vox.com/policy-and-politics/2017/11/1/16526202/college-scholarship-tycoon-game",
+    "abstract": "College Scholarship Tycoon is a game where you’re asked to move your college up the rankings — but striking the wrong balance might force you to reject poor kids who really need college to give them a shot at a better life.",
+    "keywords": "college, scholarship, inequality",
+    "author": {
+        "type": "Person",
+        "@id": "https://twitter.com/alv9n",
+        "name": "Alvin Chang",
+        "email": "alvin@vox.com"
+    },
+    "publisher": {
+        "type": "Organization",
+        "@id": "https://www.vox.com/",
+        "name": "Vox Media"
+    }
 }
