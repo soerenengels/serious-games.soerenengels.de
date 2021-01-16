@@ -1,0 +1,14 @@
+{
+  "name": "serious-games",
+  "version": "0.1.0",
+  "description": "Sammlung zu Serious Games bzw. Newsgames",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sören Engels",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
